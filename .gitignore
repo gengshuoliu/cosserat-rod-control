@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.npz
+*.nbc
+*.nbi
+*.pt
+*.pth
+checkpoints_dynamics/
+.claude/
